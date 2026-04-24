@@ -91,15 +91,15 @@ Input (224 × 224 × 3)
 
 ### Training Curves
 
-![MobileNetV2 Training Curves](screenshots/MobileNetV2_training_curves.png)
+![MobileNetV2 Training Curves](screenshot/MobileNetV2_training_curves.png)
 
 ### Confusion Matrix
 
-![MobileNetV2 Confusion Matrix](screenshots/MobileNetV2_confusion_matrix.png)
+![MobileNetV2 Confusion Matrix](screenshot/MobileNetV2_confusion_matrix.png)
 
 ### ROC Curve
 
-![MobileNetV2 ROC Curve](screenshots/MobileNetV2_roc_curve.png)
+![MobileNetV2 ROC Curve](screenshot/MobileNetV2_roc_curve.png)
 
 ### Classification Report
 
@@ -150,15 +150,15 @@ Input (224 × 224 × 3)
 
 ### Training Curves
 
-![EfficientNetB0 Training Curves](screenshots/EfficientNetB0_training_curves.png)
+![EfficientNetB0 Training Curves](screenshot/EfficientNetB0_training_curves.png)
 
 ### Confusion Matrix
 
-![EfficientNetB0 Confusion Matrix](screenshots/EfficientNetB0_confusion_matrix.png)
+![EfficientNetB0 Confusion Matrix](screenshot/EfficientNetB0_confusion_matrix.png)
 
 ### ROC Curve
 
-![EfficientNetB0 ROC Curve](screenshots/EfficientNetB0_roc_curve.png)
+![EfficientNetB0 ROC Curve](screenshot/EfficientNetB0_roc_curve.png)
 
 ### Classification Report
 
@@ -207,15 +207,15 @@ Input (224 × 224 × 3)
 
 ### Training Curves
 
-![ResNet50 Training Curves](screenshots/ResNet50_training_curves.png)
+![ResNet50 Training Curves](screenshot/ResNet50_training_curves.png)
 
 ### Confusion Matrix
 
-![ResNet50 Confusion Matrix](screenshots/ResNet50_confusion_matrix.png)
+![ResNet50 Confusion Matrix](screenshot/ResNet50_confusion_matrix.png)
 
 ### ROC Curve
 
-![ResNet50 ROC Curve](screenshots/ResNet50_roc_curve.png)
+![ResNet50 ROC Curve](screenshot/ResNet50_roc_curve.png)
 
 ### Classification Report
 
@@ -278,7 +278,7 @@ Grad-CAM was applied to all 3 trained models on the same test image to compare w
 
 ### Grad-CAM Side-by-Side Comparison — All 3 Models
 
-![Grad-CAM Comparison](screenshots/gradcam_comparison.png)
+![Grad-CAM Comparison](screenshot/gradcam_comparison.png)
 
 ---
 
@@ -306,7 +306,7 @@ LW5/
 ├── LW5.ipynb
 ├── README.md
 ├── guide_questions.md
-└── screenshots/
+└── screenshot/
     ├── MobileNetV2_training_curves.png
     ├── MobileNetV2_confusion_matrix.png
     ├── MobileNetV2_roc_curve.png
