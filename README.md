@@ -1,6 +1,7 @@
 # 🌿 Laboratory Work 5 — Comparative Analysis of Pre-trained CNN Models
 ### Custom Image Classification Using Transfer Learning
 
+https://colab.research.google.com/drive/16NAqb41BeI6MUhE3ZOznYqhti-3YqXy7
 > **Course:** Computer Science — Machine Learning / Deep Learning
 > **Dataset:** Tree & Fruit Image Dataset · 20 Classes · 7,188 Images
 > **Framework:** TensorFlow / Keras · Google Colab
